@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SOS Bridge</string>
+    <string name="loading">Loading…</string>
+    <string name="sending">Sending test alert…</string>
+    <string name="send_test_alert">Send Test Alert</string>
+</resources>

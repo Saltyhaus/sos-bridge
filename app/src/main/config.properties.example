@@ -1,0 +1,6 @@
+rl=https://YOUR-URL.com
+method=POST
+header_name=YOUR-Bridge-Secret
+header_value=REPLACE-WITH-BRIDGE-SECRET
+body={"radio": "Change-to-name"}
+radio_label=Change-to-name
