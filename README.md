@@ -124,3 +124,7 @@ whatever body/URL distinguishes the two on the server side) pushed the same way.
 
 Once both radios confirm clean on a real reboot + real button test, MacroDroid
 can be uninstalled from both -- it's no longer in the SOS path at all.
+
+## License
+
+GPL-3.0. See [LICENSE](LICENSE).
